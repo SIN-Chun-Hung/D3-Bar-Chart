@@ -4,6 +4,12 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/sin-chun-hung/pen
 
 This bar chart represents the economic data of the Federal Reserve.
 
-This page is created by SIN Chun Hung Simon, mathematician from The Hong Kong University of Science and Technology (HKUST). 
-
 The dataset is from FreeCodeCamp Project. 
+
+This page owner information.
+
+SIN,Chun Hung SIMON.
+
+HKUST graduate.
+
+Mathematician. Developer.
